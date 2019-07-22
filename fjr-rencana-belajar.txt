@@ -3,7 +3,10 @@ Rencana Belajar
 - PHP
   * PHP 7
   * Framework
+    ^Laravel
 - Fundamental Data Dasar
 - Database
-- Framework
+- JS Framework
+  ^Node JS
 - JS
+- Python
