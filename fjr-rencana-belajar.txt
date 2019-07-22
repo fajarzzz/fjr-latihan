@@ -3,9 +3,11 @@ Rencana Belajar
 - PHP
   * PHP 7
   * Framework
-    ^Yii
-    ^Cake PHP
+    ^Laravel
+    ^Codeigniter
+- Fundamental Data Dasar
 - Database
 - JS Framework
   ^Node JS
 - JS
+- Python
