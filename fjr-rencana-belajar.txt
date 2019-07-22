@@ -1,0 +1,6 @@
+Rencana Belajar
+
+- PHP
+- Database
+- Framework
+- JS
